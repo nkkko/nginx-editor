@@ -41,6 +41,8 @@ npm install monaco-editor-nginx
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?logo=codesandbox)](https://codesandbox.io/s/github/jaywcjlove/nginx-editor)
 [![Open in Github gh-pages](https://img.shields.io/badge/Open%20In-Github%20gh--pages-blue?logo=github)](https://jaywcjlove.github.io/nginx-editor/)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/jaywcjlove/nginx-editor)
+
 ```jsx
 import MonacoEditor from '@uiw/react-monacoeditor';
 import 'monaco-editor-nginx';
